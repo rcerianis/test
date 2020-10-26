@@ -2,5 +2,4 @@
 
 console.log('test.js');
 
-document.querySelector('app').innerHTML = 'Coucou !';
-
+document.querySelector('app').innerHTML = 'Coucou casa !';
